@@ -14,4 +14,6 @@ CRITICAL: Hello world
 INFO: This is an info
 ERROR: This is an error
 CRITICAL: This is critical
+Error: This is an error
+Critical: this is critical
 # hello world
